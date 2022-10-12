@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Layer Pertama -->
+    <item>
+        <bitmap android:src="@drawable/a7"
+            android:gravity="center"/>
+    </item>
+
+    <!-- Layer Kedua -->
+    <item android:top="10dp" android:left="10dp">
+        <bitmap android:src="@drawable/a6"
+            android:gravity="center"/>
+    </item>
+
+    <!-- Layer Ketiga -->
+    <item android:top="20dp" android:left="20dp">
+        <bitmap android:src="@drawable/a5"
+            android:gravity="center"/>
+    </item>
+</layer-list>

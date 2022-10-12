@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Kondisi Tombol Ditekan -->
+    <item android:state_pressed="true"
+            android:drawable="@drawable/a1"/>
+
+    <!-- Kondisi Tombol Fokus -->
+    <item android:state_focused="true"
+            android:drawable="@drawable/a2"/>
+
+    <!-- Kondisi Tombol Dihover -->
+    <item android:state_hovered="true"
+            android:drawable="@drawable/a3"/>
+
+    <!-- Kondisi Tombol Default -->
+    <item android:drawable="@drawable/a4"/>
+</selector>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Menambahkan Array Ikon -->
+    <array name="icons">
+        <item>@drawable/a10</item>
+        <item>@drawable/a11</item>
+        <item>@drawable/a13</item>
+    </array>
+
+    <!-- Menambahkan Array Color -->
+    <array name="color">
+        <item>@color/maximum_red</item>
+        <item>@color/orange</item>
+        <item>@color/maximum_yellow_red</item>
+    </array>
+</resources>

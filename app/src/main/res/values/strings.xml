@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Proyek 1 Adri</string>
+
+    <!-- Bagian Identitas Diri-->
+    <string name="nama">Adrianus Marsi lanur</string>               <!-- Masukan Nama  -->
+    <string name="nim">232010081</string>                           <!-- Masukan Nim  -->
+    <string name="fakultas">Fakultas MIPA dan Teknologi</string>    <!-- Masukan Nama Fakultas -->
+    <string-array name="prodi">
+        <item>Pendidikan Matematika</item>
+        <item>Pendidikan Teknologi Informasi</item>
+        <item>Pendidikan Fisika</item>
+        <item>Pendidikan Biologi</item>
+    </string-array>
+
+    <!-- Bagian Aplikasi-->
+    <string name="pertama">Ini Adalah Desain Pertama Saya Di Android Studio</string>
+    <string name="pesan">Silahkan Tuliskan Pesan Yang Ingin Disampaikan</string>
+    <string name="bPertama">Tekan</string>
+    <string name="bKedua">Lepas</string>
+    <string name="cb1">Pilihan Ke-1</string>
+    <string name="cb2">Pilihan Ke-2</string>
+    <string name="jk1">Laki-Laki</string>
+    <string name="jk2">Perempuan</string>
+</resources>
