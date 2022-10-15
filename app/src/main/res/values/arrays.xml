@@ -14,4 +14,10 @@
         <item>@color/orange</item>
         <item>@color/maximum_yellow_red</item>
     </array>
+
+    <array name="iconsBaru">
+        <item>@drawable/home</item>
+        <item>@drawable/instagram</item>
+        <item>@drawable/whatsapp</item>
+    </array>
 </resources>
