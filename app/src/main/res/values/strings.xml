@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Proyek 1 Adri</string>
+    <string name="app_name">Project 1 Adri</string>
 
     <!-- Bagian Identitas Diri-->
     <string name="nama">Adrianus Marsi lanur</string>               <!-- Masukan Nama  -->
@@ -21,4 +21,14 @@
     <string name="cb2">Pilihan Ke-2</string>
     <string name="jk1">Laki-Laki</string>
     <string name="jk2">Perempuan</string>
+
+    <!-- Bagian LinearLayot 2 -->
+    <string name="kepada">Kepada</string>
+    <string name="subyek">Subyek</string>
+    <string name="isi">Isi</string>
+    <string name="kirim">Kirim</string>
+
+    <!-- Tambahan Copyright dan Username -->
+    <string name="copyright">Created By Adrianus Marsi Lanur \n IKIP PGRI Pontianak 2022</string>
+    <string name="username">Masukan Nama Anda</string>
 </resources>

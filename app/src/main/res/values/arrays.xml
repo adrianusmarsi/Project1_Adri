@@ -10,9 +10,9 @@
 
     <!-- Menambahkan Array Color -->
     <array name="color">
-        <item>@color/maximum_red</item>
-        <item>@color/orange</item>
-        <item>@color/maximum_yellow_red</item>
+        <item>@color/ocean_green</item>
+        <item>@color/blue_sapphire</item>
+        <item>@color/cadet_blue</item>
     </array>
 
     <array name="iconsBaru">

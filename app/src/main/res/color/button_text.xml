@@ -3,12 +3,12 @@
 
     <!-- Kondisi Button Ditekan -->
     <item android:state_pressed="true"
-        android:color="@color/maximum_yellow_red"/>
+        android:color="@color/ocean_green"/>
 
     <!-- Kondisi Button Fokus -->
     <item android:state_focused="true"
-        android:color="@color/orange"/>
+        android:color="@color/blue_sapphire"/>
 
     <!-- Kondisi Button Default -->
-    <item android:color="@color/maximum_red"/>
+    <item android:color="@color/cadet_blue"/>
 </selector>
